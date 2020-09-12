@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Responses>
+<Response CustomerId="33227781" Message="Successful" TransactionType="deposit" id="1" newBalance="4000"/>
+<Response CustomerId="35527439" Message="Successful" TransactionType="withdraw" id="2" newBalance="0"/>
+<Response CustomerId="33227781" Message="Successful" TransactionType="deposit" id="1" newBalance="4000"/>
+<Response CustomerId="35527439" Message="Successful" TransactionType="withdraw" id="2" newBalance="0"/>
+<Response Customer="Ali Alavi" CustomerId="33227781" Message="Successful" TransactionType="deposit" id="1" newBalance="4000"/>
+<Response Customer="Reza Rezaei" CustomerId="35527439" Message="Successful" TransactionType="withdraw" id="2" newBalance="0"/>
+<Response Customer="Ali Alavi" CustomerId="33227781" Message="Successful" TransactionType="deposit" id="1" newBalance="4000"/>
+<Response Customer="Reza Rezaei" CustomerId="35527439" Message="Successful" TransactionType="withdraw" id="2" newBalance="0"/>
+<Response Customer="Ali Alavi" CustomerId="33227781" Message="Successful" TransactionType="deposit" id="1" newBalance="4000"/>
+<Response Customer="Reza Rezaei" CustomerId="35527439" Message="Successful" TransactionType="withdraw" id="2" newBalance="10000"/>
+<Response CustomerId="33227781" Message="Successful" TransactionType="deposit" id="1" newBalance="7000"/>
+<Response CustomerId="35527439" Message="Successful" TransactionType="withdraw" id="2" newBalance="10000"/>
+<Response CustomerId="33227781" Message="" TransactionType="deposit" id="1" newBalance="4000"/>
+<Response CustomerId="35527439" Message="" TransactionType="withdraw" id="2" newBalance="10000"/>
+<Response CustomerId="35527439" Message="" TransactionType="withdraw" id="2" newBalance="20000"/>
+<Response CustomerId="33227781" Message="" TransactionType="deposit" id="1" newBalance="7000"/>
+<Response CustomerId="35527439" Message="" TransactionType="withdraw" id="2" newBalance="10000"/>
+<Response CustomerId="35527439" Message="" TransactionType="withdraw" id="2" newBalance="20000"/>
+<Response CustomerId="33227781" Message="" TransactionType="deposit" id="1" newBalance="7000"/>
+<Response CustomerId="35527439" Message="" TransactionType="withdraw" id="2" newBalance="10000"/>
+<Response CustomerId="33227781" Message="" TransactionType="deposit" id="1" newBalance="4000"/>
+<Response CustomerId="35527439" Message="" TransactionType="withdraw" id="2" newBalance="20000"/>
+<Response CustomerId="33227781" Message="successful" TransactionType="deposit" id="1" newBalance="4000"/>
+<Response CustomerId="35527439" Message="successful" TransactionType="withdraw" id="2" newBalance="20000"/>
+<Response CustomerId="33227781" Message="successful" TransactionType="deposit" id="1" newBalance="7000"/>
+<Response CustomerId="35527439" Message="successful" TransactionType="withdraw" id="2" newBalance="20000"/>
+<Response CustomerId="33227781" Message="successful" TransactionType="deposit" id="1" newBalance="4000"/>
+<Response CustomerId="35527439" Message="successful" TransactionType="withdraw" id="2" newBalance="10000"/>
+<Response CustomerId="35527439" Message="successful" TransactionType="withdraw" id="2" newBalance="20000"/>
+<Response CustomerId="33227781" Message="1" TransactionType="deposit" id="1" newBalance="7000"/>
+<Response CustomerId="35527439" Message="1" TransactionType="withdraw" id="2" newBalance="20000"/>
+<Response CustomerId="33227781" Message="0" TransactionType="deposit" id="1" newBalance="4000"/>
+<Response CustomerId="35527439" Message="0" TransactionType="withdraw" id="2" newBalance="10000"/>
+</Responses>

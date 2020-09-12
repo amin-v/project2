@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="62a19f17-6bcd-459e-b1b9-296eaea77ae8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="190" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="Class" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gquKSAfPo1uHyDqjKYU1DNZrt1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/EE4/1" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Amin\IdeaProjects\untitled63\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="server" />
+      <recent name="client" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Amin\IdeaProjects\untitled63\src\main\resources" />
+      <recent name="C:\Users\Amin\IdeaProjects\untitled63\src\main\java\server" />
+      <recent name="C:\Users\Amin\IdeaProjects\untitled63\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ClientTest">
+    <configuration name="ClientTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="client.test.ClientTest" />
+      <module name="untitled63" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="client.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerMultiThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server.multithreadserver.ServerMultiThread" />
+      <module name="untitled63" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="server.checkvalidation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerSingleThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server.testserver.ServerSingleThread" />
+      <module name="untitled63" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="server.checkvalidation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="server.testserver.ServerTest" />
+      <module name="untitled63" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="server.checkvalidation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XmlReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="client.xmlmanager.XmlReader" />
+      <module name="untitled63" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClientTest" />
+        <item itemvalue="Application.ServerTest" />
+        <item itemvalue="Application.ServerMultiThread" />
+        <item itemvalue="Application.ServerSingleThread" />
+        <item itemvalue="Application.XmlReader" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62a19f17-6bcd-459e-b1b9-296eaea77ae8" name="Default Changelist" comment="" />
+      <created>1598854379678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598854379678</updated>
+      <workItem from="1598854383308" duration="8817000" />
+      <workItem from="1598878365777" duration="1292000" />
+      <workItem from="1598931210887" duration="18706000" />
+      <workItem from="1599016918200" duration="2995000" />
+      <workItem from="1599112729249" duration="138000" />
+      <workItem from="1599276769287" duration="11172000" />
+      <workItem from="1599306750863" duration="2899000" />
+      <workItem from="1599363393982" duration="15881000" />
+      <workItem from="1599450304664" duration="19960000" />
+      <workItem from="1599477834920" duration="3759000" />
+      <workItem from="1599536233207" duration="24105000" />
+      <workItem from="1599623495145" duration="13511000" />
+      <workItem from="1599638285333" duration="13199000" />
+      <workItem from="1599717335034" duration="1815000" />
+      <workItem from="1599883962832" duration="5295000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="45" key="#Inspections" timestamp="1598868359028">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="45" key="#Inspections/0.0.1366.768@0.0.1366.768" timestamp="1598868359028" />
+    <state x="275" y="45" key="#Notifications" timestamp="1598866138510">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="45" key="#Notifications/0.0.1366.768@0.0.1366.768" timestamp="1598866138510" />
+    <state x="275" y="45" key="#Project_Structure" timestamp="1599463840218">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="45" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1599463840218" />
+    <state x="137" y="41" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598854508728">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="137" y="41" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1598854508728" />
+    <state x="425" y="193" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599642990255">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="425" y="193" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.768@0.0.1366.768" timestamp="1599642990255" />
+    <state x="730" y="153" key="#com.intellij.ide.util.MemberChooser" timestamp="1599650969431">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="730" y="153" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1599650969431" />
+    <state x="484" y="252" width="397" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1599643225223">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="484" y="252" width="397" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.768@0.0.1366.768" timestamp="1599643225223" />
+    <state x="339" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1599645386491">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.768@0.0.1366.768" timestamp="1599645386491" />
+    <state x="413" y="133" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599546610311">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="413" y="133" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.768@0.0.1366.768" timestamp="1599546610311" />
+    <state x="463" y="141" key="FileChooserDialogImpl" timestamp="1599717949220">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="141" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1599717949220" />
+    <state width="1323" height="199" key="GridCell.Tab.0.bottom" timestamp="1599654779719">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="199" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1599654779719" />
+    <state width="1323" height="199" key="GridCell.Tab.0.center" timestamp="1599654779719">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="199" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1599654779719" />
+    <state width="1323" height="199" key="GridCell.Tab.0.left" timestamp="1599654779719">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="199" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1599654779719" />
+    <state width="1323" height="199" key="GridCell.Tab.0.right" timestamp="1599654779719">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1323" height="199" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1599654779719" />
+    <state x="105" y="0" key="SettingsEditor" timestamp="1599363922098">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="105" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1599363922098" />
+    <state x="390" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1599883997541">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="390" y="211" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1599883997541" />
+    <state x="387" y="285" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1598862749941">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="387" y="285" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1366.768@0.0.1366.768" timestamp="1598862749941" />
+    <state x="337" y="1" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1598946178464">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="337" y="1" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.768@0.0.1366.768" timestamp="1598946178464" />
+    <state x="65" y="0" key="new project wizard" timestamp="1598939950197">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1598939950197" />
+    <state x="391" y="18" key="refactoring.ChangeSignatureDialog" timestamp="1599647826716">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="391" y="18" key="refactoring.ChangeSignatureDialog/0.0.1366.768@0.0.1366.768" timestamp="1599647826716" />
+    <state x="339" y="172" key="run.anything.popup" timestamp="1598867813326">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="172" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1598867813326" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1599471925844">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1599471925844" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/untitled63$ServerSingleThread.ic" NAME="ServerSingleThread Coverage Results" MODIFIED="1599548949173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>server.*</FILTER>
+    </SUITE>
+  </component>
+</project>
